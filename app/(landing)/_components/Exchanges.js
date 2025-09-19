@@ -4,7 +4,7 @@ import Flag from "@/components/Flag";
 const exchanges = [
   {
     flag: "PumpFun",
-    title: "Moonshot",
+    title: "Pump.Fun",
     link: "https://dexscreener.com/solana/8j5r6kteet9cm6wamq2mwb2sneu97cz1jtksdg76moon",
   },
   // {

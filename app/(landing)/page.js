@@ -57,7 +57,7 @@ export default function Home() {
         <div className="text-center">
           <div className="flex justify-center">
             <Image
-              className="hidden md:block"
+              className=""
               src="/collection/6.png"
               width={300}
               height={300}
@@ -72,7 +72,8 @@ export default function Home() {
             />
           </div>
           <div className="mt-5">
-            <p className="font-stopbuck text-2xl text-black">Woof! Woof!</p>
+            <p className="font-stopbuck text-2xl text-black">NFA. It's "edu-tainment"
+              to learn and have fun. Remember to touch some grass!</p>
           </div>
         </div>
         {/* <WallOfLove /> */}

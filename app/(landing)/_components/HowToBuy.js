@@ -10,7 +10,7 @@ const HowToBuy = () => {
           How To Buy
         </h2>
         <h3 className="font-stopbuck text-2xl text-center text-black">
-          {`Just 4️⃣ steps to get rich 🤑`}
+          {`Just 4️⃣ simple steps to get connected 🤓`}
         </h3>
       </div>
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-36 justify-items-center">
@@ -24,11 +24,11 @@ const HowToBuy = () => {
             >
               phantom
             </a>{" "}
-            or your{" "}
+            or the{" "}
             <span className="bg-gradient-to-r from-[#9945FF] to-[#14F195] inline-block text-transparent bg-clip-text uppercase font-extrabold text-2xl">
               Solana
             </span>{" "}
-            wallet of choice and follow the simple steps to create a new
+            wallet of your choice and follow its simple instructions to create a new
             account.
           </span>
         </OrderCard>
@@ -46,25 +46,25 @@ const HowToBuy = () => {
             >
               phantom
             </a>{" "}
-            , transfer from another wallet, or buy on another exchange and send
+            , transfer from another wallet, or buy via an exchange and send
             it to your wallet.
           </span>
         </OrderCard>
-        <OrderCard order={3} title={"swap $Sol for $duis"} style={"-rotate-1"}>
+        <OrderCard order={3} title={"swap $Sol for $C4N"} style={"-rotate-1"}>
           <span>
-            Paste the token address (CA) into wallet and swap{" "}
+            Paste the token address (CA) into your wallet and swap{" "}
             <span className="bg-gradient-to-r from-[#9945FF] to-[#14F195] inline-block text-transparent bg-clip-text uppercase font-extrabold text-2xl">
               $SOL
             </span>{" "}
-            for <span className="font-extrabold text-2xl text-duis">$DUIS</span>
-            .{`There's zero taxes so you don’t need to worry.`}
+            for <span className="font-extrabold text-2xl text-duis">$C4N</span>
+            .{` There's zero taxes.`}
           </span>
         </OrderCard>
-        <OrderCard order={4} title={"you're duis-dawg!‍"} style={"rotate-2"}>
+        <OrderCard order={4} title={"you're one of us!‍"} style={"rotate-2"}>
           <span>
             Welcome to the <br />
             <span className="uppercase font-extrabold text-2xl underline decoration-duis">
-              Duis family
+              C4N family
             </span>
             !
           </span>

@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Dúi (aka Nguyen Van Dui) | Solana",
-  description: "Dui is forever on Solana",
+  title: "Cryptos for Normies",
+  description: "C4N makes learning crypto easily accessible for everyone.",
 };
 
 export default function RootLayout({ children }) {
