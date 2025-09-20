@@ -8,9 +8,9 @@ const About = () => {
         <div className="cloud -ms-6"></div>
         <div className="cloud -ms-6 rotate-6"></div>
         <div className="cloud -ms-6"></div>
-        <div className="cloud -ms-6 -rotate-12"></div>
+        <div className="cloud -ms-6 -rotate-12 mt-2"></div>
         <div className="cloud -ms-6"></div>
-        <div className="cloud -ms-6 rotate-12"></div>
+        <div className="cloud -ms-6 rotate-12 mt-2"></div>
         <div className="cloud -ms-6"></div>
         <div className="cloud -ms-6 -rotate-6"></div>
         <div className="cloud -ms-6"></div>
@@ -18,9 +18,9 @@ const About = () => {
         <div className="cloud -ms-6"></div>
         <div className="cloud -ms-6 rotate-6"></div>
         <div className="cloud -ms-6"></div>
-        <div className="cloud -ms-6 -rotate-12"></div>
+        <div className="cloud -ms-6 -rotate-12 mt-2"></div>
         <div className="cloud -ms-6"></div>
-        <div className="cloud -ms-6 rotate-12"></div>
+        <div className="cloud -ms-6 rotate-12 mt-2"></div>
         <div className="cloud -ms-6"></div>
         <div className="cloud -ms-6 -rotate-6"></div>
         <div className="cloud -ms-6"></div>
@@ -51,7 +51,7 @@ const About = () => {
               <p className="indent-12">
                 <span className="text-3xl font-bold">C4N</span>, aka{" "}
                 <span className="font-semibold italic">{'"Cryptos for Normies"'}</span>{" "}
-                was inspired by the popular 'For Dummies' instructional series.{" "}
+                was inspired by the popular <em>For Dummies</em> instructional series and <em>Khan Academy</em>.{" "}
               </p>
               <p className="indent-12 mt-3">
                 Norm, the mascot of C4N, has been living in the cryptoverse for over a decade. He is passionate about crypto
