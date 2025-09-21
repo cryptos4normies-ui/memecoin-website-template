@@ -51,16 +51,37 @@ const About = () => {
               <p className="indent-12">
                 <span className="text-3xl font-bold">C4N</span>, aka{" "}
                 <span className="font-semibold italic">{'"Cryptos for Normies"'}</span>{" "}
-                was inspired by the popular <em>For Dummies</em> instructional series and <em>Khan Academy</em>.{" "}
+                was inspired by the popular{" "}
+                <a href="https://www.dummies.com" target="_blank" rel="noopener noreferrer" className="underline">
+                  <em>For Dummies</em>
+                </a>{" "}
+                instructional series and{" "}
+                <a href="https://www.khanacademy.org" target="_blank" rel="noopener noreferrer" className="underline">
+                  <em>Khan Academy</em>
+                </a>.{" "}
               </p>
               <p className="indent-12 mt-3">
-                Norm, the mascot of C4N, has been living in the cryptoverse for over a decade. He is passionate about crypto
-                and decentralization applications because of the opportunities they present. He enjoys sharing his experiences
-                and knowledge with the goal of onboarding more users by equipping them with the tools to safely and successfully
-                navigate this wild space.
+                <span className="font-bold">Norm</span>, the mascot of <span className="font-bold">C4N</span>, has been living in the cryptoverse for over a decade. 
+                He's passionate about crypto/dApps and enjoys sharing his knowledge/experience with the goal of onboarding <span className="font-bold">normies</span> while aiding them with building a mindset and toolset to safely and successfully
+                navigate this ever-evolving space.
               </p>
               <p className="indent-12 mt-3">
-                His streams will be live on pump.fun and later posted on Youtube and X. He offers a telegram channel for Q&A.
+                His streams will be live on{" "}
+                 <a href="https://pump.fun/live" target="_blank" rel="noopener noreferrer" className="underline">
+                  pump.fun
+                </a>{" "}
+                and later posted on{" "}
+                <a href="https://www.youtube.com/@For_Normies" target="_blank" rel="noopener noreferrer" className="underline">
+                  YouTube
+                </a>{" "}
+                and{" "}
+                <a href="https://x.com/for_normies" target="_blank" rel="noopener noreferrer" className="underline">
+                  X
+                </a>. A{" "}
+                <a href="https://t.me/+XvJ1bAwmsRphMzg1" target="_blank" rel="noopener noreferrer" className="underline">
+                  Telegram
+                </a>{" "}
+                group chat is offered for Q&A.
                 Topics such as safety practices, explorer analytics, liquidity providing, NFTs, leveraging money markets, airdrop farming,
                 prediction markets, governance, and much more will be covered.
               </p>

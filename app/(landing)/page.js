@@ -73,7 +73,7 @@ export default function Home() {
           </div>
           <div className="mt-5">
             <p className="font-stopbuck text-2xl text-black">NFA. It&apos;s &quot;edu-tainment&quot;
-              to learn and have fun. Remember to touch some grass!</p>
+              to learn while having fun. Remember to touch some grass!</p>
           </div>
         </div>
         {/* <WallOfLove /> */}
