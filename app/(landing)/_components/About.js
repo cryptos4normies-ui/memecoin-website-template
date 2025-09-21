@@ -62,7 +62,7 @@ const About = () => {
               </p>
               <p className="indent-12 mt-3">
                 <span className="font-bold">Norm</span>, the mascot of <span className="font-bold">C4N</span>, has been living in the cryptoverse for over a decade. 
-                He's passionate about crypto/dApps and enjoys sharing his knowledge/experience with the goal of onboarding <span className="font-bold">normies</span> while aiding them with building a mindset and toolset to safely and successfully
+                He&apos;s passionate about crypto/dApps and enjoys sharing his knowledge/experience with the goal of onboarding <span className="font-bold">normies</span> while aiding them with building a mindset and toolset to safely and successfully
                 navigate this ever-evolving space.
               </p>
               <p className="indent-12 mt-3">
