@@ -55,22 +55,24 @@ export default function Home() {
 
         <HowToBuy />
         <div className="text-center">
-          <div className="flex justify-center">
-            <Image
-              className=""
-              src="/collection/6.png"
-              width={300}
-              height={300}
-              alt="dui-6"
-            />
-            <Image
-              className=""
-              src="/collection/8.png"
-              width={300}
-              height={300}
-              alt="dui-8"
-            />
-          </div>
+          <div className="flex justify-center max-w-lg mx-auto">
+            <div className="w-1/2">
+              <Image
+                src="/collection/6.png"
+                width={300}
+                height={300}
+                alt="dui-6"
+              />
+            </div>
+            <div className="w-1/2">
+              <Image
+                src="/collection/8.png"
+                width={300}
+                height={300}
+                alt="dui-8"
+              />
+            </div>
+</div>
           <div className="mt-5">
             <p className="font-stopbuck text-2xl text-black">NFA. It&apos;s &quot;edu-tainment&quot;
               to learn while having fun. Remember to touch some grass!</p>

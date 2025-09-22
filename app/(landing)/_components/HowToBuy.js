@@ -28,7 +28,7 @@ const HowToBuy = () => {
             <span className="bg-gradient-to-r from-[#9945FF] to-[#14F195] inline-block text-transparent bg-clip-text uppercase font-extrabold text-2xl">
               Solana
             </span>{" "}
-            wallet of your choice and follow its simple instructions to create a new
+            wallet of your choice and follow its instructions to create a new
             account.
           </span>
         </OrderCard>

@@ -3,7 +3,7 @@ import LinkCardCircle from "@/components/LinkCardCircle";
 
 const cards = [
   {
-    link: "https://t.me/+XvJ1bAwmsRphMzg1",
+    link: "https://t.me/for_normies",
     title: "telegram",
     icon: "Telegram",
   },
@@ -13,7 +13,7 @@ const cards = [
     icon: "X",
   },
   {
-    link: "https://www.youtube.com/@For_Normies",
+    link: "https://www.youtube.com/@for_normies",
     title: "Youtube",
     icon: "Youtube",
   },
