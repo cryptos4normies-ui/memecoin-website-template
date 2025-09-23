@@ -29,9 +29,9 @@ const Nav = () => {
   return (
     <nav
       aria-label="Global"
-      className={`fixed top-0 left-0 w-full z-50 shadow-lg transition-all duration-300 ${
+      className={`fixed top-0 left-0 w-full z-50 shadow-lg transition-all duration-300 bg-black/80 ${
         isScrolled ? "h-20" : "h-28"
-      }`}
+    }`}
     >
       <div className="flex items-center justify-between p-4 lg:px-8 mx-auto max-w-screen-xl">
         {/* Logo */}
