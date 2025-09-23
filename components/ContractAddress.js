@@ -27,7 +27,7 @@ const ContractAddress = () => {
         <div className="rounded-xl relative shadow-lg shadow-gray-700 hover:shadow-none transition duration-300">
           <div className="relative">
             <div
-              className="w-full bg-gray-100 p-4 pe-24 text-sm sm:text-base md:text-2xl font-stopbuck font-medium rounded-xl text-ellipsis text-black"
+              className="w-full bg-gray-100 p-4 pe-24 text-sm sm:text-base md:text-2xl font-stopbuck font-medium rounded-xl break-words text-black"
             >
               {textToCopy}
             </div>
