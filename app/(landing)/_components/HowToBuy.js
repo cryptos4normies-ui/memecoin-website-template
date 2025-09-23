@@ -71,7 +71,7 @@ const HowToBuy = () => {
         </OrderCard>
       </div>
 
-      <div className="my-16">
+      <div className="my-16 max-w-full">
         <ContractAddress />
       </div>
     </div>
